@@ -2,7 +2,7 @@
 int main()
 {
     int a, b, c;
-    printf("Введите 2 целых числа:\n");
+    printf("Введите 2 целых числа:\n");//
     scanf("%d", &a);
     scanf("%d", &b);
     c = a - b;
